@@ -1,0 +1,22 @@
+body{
+	background-image: url('https://album.es/fotos/uploads/imagenes/thumbs/playa-desierta-fondo-para-album-de-vacaciones-hofmann-clasico_viajes-34-classic_1200px.jpg');
+}
+
+.fondo{
+	background: white;
+}
+.fondo2{
+	background: #F26C74;
+}
+
+span{
+	color: red;
+	font-weight: bold;
+}
+h3{
+	color: black;
+}
+
+.borde{
+	border:7px solid white;
+}
